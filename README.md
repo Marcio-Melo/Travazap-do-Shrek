@@ -4,7 +4,7 @@ SendScriptWhatsApp V2
 Código para enviar o Script inteiro de Shrek para seus amigos ou grupos do WhatsApp
 
 Utilização
-Abra shrekSendScriptV2-br.js
+Abra [shrekSendScriptV2-br.js](https://github.com/Marcio-Melo/Travazap-do-Shrek/blob/main/SendScriptWhatsAppV2-Shrek-PT-BR.js)
 
 Copie todo o conteúdo
 
